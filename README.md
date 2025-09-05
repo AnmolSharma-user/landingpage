@@ -1,2 +1,0 @@
-# landingpage
-Practice Landing Page
